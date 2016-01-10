@@ -4,7 +4,6 @@
 Some configurations for different technologies
 
 ## For HandOff ##
------------------
 ```
 <key>NSUserActivityTypes</key>
 <array>
@@ -13,13 +12,11 @@ Some configurations for different technologies
 </array>
 ```
 ## For Geolocation ##
----------------------
 ```
 <key>NSLocationWhenInUseUsageDescription</key>
 <string>Usaremos su localizacion para ubicar su nuevo hogar</string>
 ```
 ## For URL ##
--------------
 ```
 <key>NSAppTransportSecurity</key>
 <dict>
@@ -28,7 +25,6 @@ Some configurations for different technologies
 </dict>
 ```
 ## For Open Application with schemes ##
-----------------------------------------
 ```
 <key>LSApplicationQueriesSchemes</key>
 <array>
