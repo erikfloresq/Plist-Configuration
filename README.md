@@ -10,10 +10,15 @@ Some configurations for different technologies
   <string>com.comercio.urbania.Search</string>
 </array>
 ```
-## For Geolocation ##
+## For Location when in usage  ##
 ```
 <key>NSLocationWhenInUseUsageDescription</key>
 <string>Usaremos su localizacion para ubicar su nuevo hogar</string>
+```
+## For Location when always usage ##
+```
+<key>NSLocationAlwaysUsageDescription</key>
+<string>My description about why I need this capability</string>
 ```
 ## For URL ##
 ```
@@ -31,4 +36,29 @@ Some configurations for different technologies
   <string>comgooglemaps</string>
   <string>comgooglemapsurl</string>
 </array>
+```
+## For Photo Library ##
+```
+<key>NSPhotoLibraryUsageDescription</key>
+<string>My description about why I need this capability</string>
+```
+## For Siri ##
+```
+<key>NSSiriUsageDescription</key>
+<string>My description about why I need this capability</string>
+```
+## For Microphone ##
+```
+<key>NSMicrophoneUsageDescription</key>
+<string>My description about why I need this capability</string>
+```
+## Camera ##
+```
+<key>NSCameraUsageDescription</key>
+<string>My description about why I need this capability</string>
+```
+## Contacts ##
+```
+<key>NSContactsUsageDescription</key>
+<string>My description about why I need this capability</string>
 ```
