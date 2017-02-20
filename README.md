@@ -2,6 +2,11 @@
 
 Some configurations for different technologies
 
+## Widget in screen ##
+```
+<key>UIApplicationShortcutWidget</key>
+<string>pe.com.orbis.widget</string>
+```
 ## For HandOff ##
 ```
 <key>NSUserActivityTypes</key>
